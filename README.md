@@ -1,8 +1,6 @@
 # Jarvis 
   Bot which provides assistance to customer for choosing a mobile based on specifications they provided
   
-  ![jarvis](https://github.com/PadmaJyothi-U/ML2021/blob/files/jarvis.png)
-  
 ## Team Members
 1.U.Padma Jyothi, padmajyothi@vishnu.edu.in
 
