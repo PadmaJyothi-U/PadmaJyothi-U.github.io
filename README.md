@@ -19,9 +19,10 @@
 
 ## Description
 * Name of the bot - **Jarvis**
-* A Webpage which provides introduction and description of the bot
-* Bot will send a **welcome message** to the user or a customer by asking the name.
-* After getting response from user, jarvis will send a **greeting message**.
+* A Webpage which provides introduction and description of the bot.
+* And also provides available mobile brands with their links to buy a mobile.
+* In order to interact with Bot,intially used need to provide details of name and emailid.Then user can start chat with bot.
+* Based on user name, a **welcome message** will be send by bot to the user.
 * Based on the user willings, next bot will collect information about type of **operating system** like ios or android
 * Then jarvis will ask information about different kinds of inputs from user like 
   + **Brand of the mobile**
