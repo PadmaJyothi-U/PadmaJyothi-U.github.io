@@ -4,12 +4,16 @@
 ## Team Members
 1.U.Padma Jyothi, padmajyothi@vishnu.edu.in
 
-2.N.Naga Krishna, nagakrishna.n@vishnu.edu.in
+2.D.Mamatha, mamatha.d@vishnu.edu.in
 
 3.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
 
 ## Working of Frontend
+(https://padmajyothi-ugithubio.padmajyothi.repl.co/)
+
+
 (https://padmajyothi-u.github.io/)
+
 ## Design model 
 ![Jarvis Web page Design](https://github.com/PadmaJyothi-U/PadmaJyothi-U.github.io/blob/main/img/webpage.PNG)
 
